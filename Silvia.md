@@ -1,5 +1,5 @@
 
-# <span style="color:limegreen"><center>El Pensamiento Crítico</center></span>
+# <span style="color:limegreen">El Pensamiento Crítico</span>
 ***
 Dada la sociedad tecnológica en la que nos encontramos donde los estudiantes tienen acceso a mucha información de manera rápida, no cabe duda de que desarrollar un pensamiento crítico es *crucial*.  
 
