@@ -3,7 +3,7 @@
 ***
 Dada la sociedad tecnológica en la que nos encontramos donde los estudiantes tienen acceso a mucha información de manera rápida, no cabe duda de que desarrollar un pensamiento crítico es *crucial*.  
 
-<center>![Pensamiento Crítico](https://www.academiadeinversion.com/wp-content/uploads/2017/03/bases-del-pensamiento-critico.png")</center> 
+![Pensamiento Crítico](https://www.academiadeinversion.com/wp-content/uploads/2017/03/bases-del-pensamiento-critico.png")\
 
 ***
 
