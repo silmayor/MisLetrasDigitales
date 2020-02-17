@@ -9,7 +9,8 @@ Dada la sociedad tecnológica en la que nos encontramos donde los estudiantes ti
 
 <center>
 	![Imagen](https://www.academiadeinversion.com/wp-content/uploads/2017/03/bases-del-pensamiento-critico.png")
-</center>
+</center>  
+
 ----
 
 ## <span style="color:mediumorchid">¿Por qué es importante el pensamiento crítico de los estudiantes?</span> ##
