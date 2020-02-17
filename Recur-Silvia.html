@@ -1,0 +1,24 @@
+<h1><span style="color:darkcyan"><center>SEMANA DE LA CIENCIA 2020 </center></span></h1>
+<h2><span style="color:lightseagreen">Ficha 2. Algoritmos Recursivos</span></h2>
+<hr>
+<p>El objetivo de esta ficha es mostrar la programación de <strong>algoritmos recursivos</strong>.</p>
+<p>Una de las funciones recursivas más famosas es <strong>factorial</strong>:</p>
+<p></p><center><img src="https://raw.githubusercontent.com/silmayor/MisLetrasDigitales/imgns/1.JPG" alt="Factorial"></center><p></p>
+<p>Factorial es útil en la composición de permutaciones, por ejemplo. El cálculo es sencillo y su veremos que el código en un lenguaje de programación es casi cortar y pegar la fórmula matemática.</p>
+<p>Otra función recursiva un poquito más difícil es la que hemos mostrado en la presentación. La sucesión de <strong>Fibonacci</strong>:<br>
+</p><center>
+<img src="https://raw.githubusercontent.com/silmayor/MisLetrasDigitales/imgns/fibonacci.jpg" alt="RetratoFibonacci">
+</center><p></p>
+<p></p><center><img src="https://raw.githubusercontent.com/silmayor/MisLetrasDigitales/imgns/2.JPG" alt="Fibonacci"></center><p></p>
+<p>Sucesion de Fibonacci: <strong>1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …</strong></p>
+<p>Una primera implementación puede ser precisamente la fórmula matemática con recursión doble, pero veremos que es muy poco eficiente, pues ni siguiera un buen ordenador será capaz de calcular el Fibonacci de 50, por ejemplo.</p>
+<p>Con ayuda de las matemáticas y de la imaginación vamos a implementar otra solución que calcula cualquier Fibonacci en tiempo record, lo que llamamos ‘tiempo real’.</p>
+<p></p><center><img src="https://raw.githubusercontent.com/silmayor/MisLetrasDigitales/imgns/3.JPG" alt="Tiemporeal"></center><p></p>
+<p>Para calcular números de Fibonacci con esta función hacemos: <em>fib_final(n,0,1)</em></p>
+<p></p><center><img src="https://raw.githubusercontent.com/silmayor/MisLetrasDigitales/imgns/grafica.jpg" alt="Gráfico"></center><p></p>
+<p>En la práctica implementaremos varios algoritmos con diferentes complejidades como se marca en esta gráfica.</p>
+<ul>
+<li><span style="color:red">Rojo</span>: El tiempo de ejecución es tan alto que no podríamos vivir para conocer el resultado.</li>
+<li><span style="color:blue">Azul</span>: El tiempo de ejecución es proporcional al número que actúa como input.</li>
+<li><span style="color:green">Verde</span>: El tiempo de ejecución será el logaritmo del número actúa como input.</li>
+</ul>
